@@ -67,7 +67,6 @@ strong {
 
 a:hover {
     color: var(--clr-accent2);
-    outline: 3px;
 }
 
 a, a:visited {
