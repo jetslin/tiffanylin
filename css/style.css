@@ -270,6 +270,7 @@ header {
 
 .aboutme__link {
     color:#fff;
+    font-weight: var(--fw-bold);
 }
 
 .aboutme__link:hover {
