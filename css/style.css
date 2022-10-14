@@ -268,11 +268,11 @@ header {
     padding: 0 7em;
 }
 
-.resume__link {
+.aboutme__link {
     color:#fff;
 }
 
-.resume__link:hover {
+.aboutme__link:hover {
     color: var(--clr-accent2);
 }
 
